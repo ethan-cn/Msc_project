@@ -1,0 +1,4 @@
+[0414/184844.467:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\159276~1\AppData\Local\Temp\scoped_dir6092_1426023418\Crashpad\reports\f161ecf7-853a-4089-b736-946cbf09c11f.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0414/184847.536:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\159276~1\AppData\Local\Temp\scoped_dir30148_1797040767\Crashpad\reports\5f579faf-7374-443c-b877-ad6eef77c1cc.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0414/184856.420:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\159276~1\AppData\Local\Temp\scoped_dir31112_2044358531\Crashpad\reports\820fd68a-09a6-4039-9ec4-9e6989656ed4.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0414/190511.521:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\159276~1\AppData\Local\Temp\scoped_dir1260_380076369\Crashpad\reports\96284083-6500-4e7c-a72a-77ca2168e936.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
